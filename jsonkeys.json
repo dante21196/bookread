@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wherehouse-test-assignment",
+  "private_key_id": "9e7dca4409916df6629a036e104bad03161f1e87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC779MNP8O8ZsQE\nKiGZxH/KhKj/UIvMyqw8sgrrD83oC6W7GLMhmTLQiD0JFPithaBXmcKgKFV1ZFIl\ntjwEio2dGdaermFf9Mqh2Epg4MwkpEEHsBT/mVYXOgQhCi9pV2dnOyftjZNpZVCn\nnAM/AWuZHJmiwJ8JgsR9NRYf/MWKnZlLb6boGRWriSwQet+arOXKozCUT9Gxg5Fb\noJTpEbRDf9qXJQIL0s2O49Ev+xTz42HxP4655MLggIzzeKrNd3W50c3bDf8sQjM8\nX6h2amju3m4vtWAptaG0TsyWOPkioIJk234Vx6eTcVyMgt8b66FqPisCBUYgu3zM\nd8nMI01hAgMBAAECggEACVKNmVIRAKWSB8kwPACxkcdFW87ayciW78wpevy1yygt\nayu/56+CBAfyC83eF7txwflXBxtLwUQ98prI0jUuQ6f+YQYyPzCKeanxPJTXbjeL\nS0PqiBL1izbonAagO0fnkZ5vWLBlwCa+BWZu3x9P/1BvdZGRAgeE0teBNrUoS7vM\n1o6HhJsIFzytdSW0k/zAEvGljHXsleKEoqFZTSIhTPjF71bmOq6qmO8NT2kbZ1+D\nJeNVFZt1ppFLujeUEH5FyZx29uWV2HAP5GES156U3+XBft6DbB9pIQQu3DUKEcI7\nrFbtyCvhRMErK2w0zAHYiGILF0XYWUCtIU04JlzNrQKBgQD3/7/FmEuX5Mi4zTY9\n7NRWbYdv5lVo/0DNb5T336bSLvRQsCSQruZMdgFBQSBftAn9vzAfrdUVY7mTEL+H\ndhdy10l3ov9gIZHvFf0Tht38lXOj30yDzmmr0WMmJsse6R/0UGwfiOhWJdoX6Mj5\n3SpccjJ3Pehsd8Fnk8PIYsLr7QKBgQDCAAPYRX1PtucIuavMdNOxS4ETDA6Gc5VI\nt5uP0mKjuxiELYGpSWBl2yEHXnOx/VI1FHJGzjpuHRWK255SfEY4HSjX8HjfDFLB\nIEdAk28C/nXr9khu9ANyjiT7K00ZIGdrnZ++RcOfoFyFsnR+2cOHvdNz4JkQaGVT\nbUP41brAxQKBgDONBxkU4knNteesSKUwsKbSl7+r+n8b6CWMF0Q7SlsQhZqsMr2c\njaTBNtuQpSEftJ/5eRBsuwl6NF4csiN/abpmhBAJYtphwAsZ4ASKGWTi0Cn1Rdt0\nMcUUfm60y64+OXU4rnETrXAS6DXmHrjJv39+AX2F8eVyM1LLhXwHA4u1AoGBAJN4\nI3QRTrJ73J+7VCb1X75UIOfzsE7wKbi/KZdoW+cOYBKJ7RhcWNTUgATz/Yp9gDIt\nOrksJypxHWESlQUqxs39DIEpoRgcbAO2n7Ms36Qs/kLCUklVYBGCkAYF4nOJOFSL\n21Rt/8ilw+81umx66LGU0NozDud0FCIY2ySag33pAoGAambP9AQifYSPCD1R6Dmw\n37XcGyzaRIJ1JSZDDW8hXZ8rPed+BXmSLw6+3xXEUp2uNHpydT9fiuccypulQl0l\nNbVXiH2Hv3qoPxChsQa7Q1N6Uf/eEWXfMHlZ+/5TCg2PKMXD1xukunDTaE0sTSRC\nivA90QRil0YAk6KmYxVvMZI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookread@wherehouse-test-assignment.iam.gserviceaccount.com",
+  "client_id": "107849257441051449740",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookread%40wherehouse-test-assignment.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

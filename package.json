@@ -1,0 +1,21 @@
+{
+  "name": "bookread",
+  "version": "1.0.0",
+  "description": "Create/Read operations from an excel sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashmin Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "googleapis": "^126.0.1",
+    "mongoose": "^7.5.3",
+    "nodemon": "^3.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
