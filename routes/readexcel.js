@@ -20,7 +20,7 @@ router.get('/',async(req,res)=>{
     range : "Sheet1!A:C"
 })
 
-res.status(200).json(readData.data)}
+res.status(200).send(readData.data)}
 catch(err){
     res.status(500).send('Some Error Occured!')
 }

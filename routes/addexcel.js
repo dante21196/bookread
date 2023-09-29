@@ -9,6 +9,7 @@ const xlsx = require('xlsx');
 
 router.post('/', async(req,res) => {
     try {
+        let {id,avname,pscore} = req.body;
         const auth = new google.auth.GoogleAuth({
             keyFile : 'jsonkeys.json',
             scopes: "https://www.googleapis.com/auth/spreadsheets"
@@ -23,7 +24,7 @@ router.post('/', async(req,res) => {
         valueInputOption: "USER_ENTERED", 
         resource: {
             values: [
-                ["9", "Test 9","1"]
+                [id, avname,pscore]
             ],
         },
     });
